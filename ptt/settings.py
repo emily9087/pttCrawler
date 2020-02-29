@@ -4,6 +4,7 @@ BOT_NAME = 'ptt'
 BOARD_NAME = 'Gossiping'
 
 # 設定撈取區間
+# 格式：Y-m-d
 START_DATE = '2020-02-29'
 END_DATE = '2020-03-01'
 

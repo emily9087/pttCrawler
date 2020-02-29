@@ -34,6 +34,15 @@ scrapy crawl ptt
 
 ## 參數設定
 於 `settings.py` 檔案中，可以設定欲撈取之看板，以及設定撈取的日期區間：
+```bash
+# 設定「欲撈取的看板」
+BOARD_NAME = 'Gossiping'
+
+# 設定撈取區間
+# 格式：Y-m-d
+START_DATE = '2020-02-29'
+END_DATE = '2020-03-01'
+```
 
 ## Demo 影片
 我有錄製一段 [Demo 影片](https://youtu.be/u_8_h_oSHsk)，呈現實際運作時的狀況，請參考
