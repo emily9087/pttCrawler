@@ -8,7 +8,7 @@
 - MongoDB
 
 ## Python 環境設置
-使用 Anaconda 建置一個名為 aotter 的虛擬環境，依據題目要求，Python 版本指定為 3.7
+使用 Anaconda 建置一個名為 aotter 的虛擬環境，依據題目要求，Python 版本指定為 3.7：
 ```bash
 conda create -n aotter python=3.7
 ```
@@ -21,7 +21,7 @@ pip install pymongo
 
 ## MongoDB 安裝
 使用 Homebrew 安裝 MongoDB，
-安裝與啟用指令，請參考 [The MongoDB Homebrew Tap](https://github.com/mongodb/homebrew-brew)
+安裝與啟用指令，請參考 [The MongoDB Homebrew Tap](https://github.com/mongodb/homebrew-brew)。
 
 ## 開發環境
 - 作業系統：macOS Catalina 10.15.3
@@ -30,7 +30,7 @@ pip install pymongo
 ```bash
 scrapy crawl ptt
 ```
-- 備註：最大上限為擷取 200 頁，如需手動停止，請於終端機按下 `Ctrl + C`
+- 備註：最大上限為擷取 200 頁，如需手動停止，請於終端機按下 `Ctrl + C`。
 
 ## 參數設定
 於 `settings.py` 檔案中，可以設定欲撈取之看板，以及設定撈取的日期區間：
@@ -45,7 +45,7 @@ END_DATE = '2020-03-01'
 ```
 
 ## Demo 影片
-我有錄製一段 [Demo 影片](https://youtu.be/u_8_h_oSHsk)，呈現實際運作時的狀況，請參考
+我有錄製一段一分鐘的 [Demo 影片](https://youtu.be/u_8_h_oSHsk)，呈現實際運作時的狀況，請參考。
 
 ## 參考資料
 - [leVirve-arxiv / ptt-scrapy](https://github.com/leVirve-arxiv/ptt-scrapy)
