@@ -46,3 +46,8 @@ END_DATE = '2020-03-01'
 
 ## Demo 影片
 我有錄製一段 [Demo 影片](https://youtu.be/u_8_h_oSHsk)，呈現實際運作時的狀況，請參考
+
+## 參考資料
+- [leVirve-arxiv / ptt-scrapy](https://github.com/leVirve-arxiv/ptt-scrapy)
+- [Scraping Websites into MongoDB using Scrapy Pipelines](https://alysivji.github.io/mongodb-pipelines-in-scrapy.html)
+- [比 Selenium 還強大的網路爬蟲：Scrapy 一本就精通](https://www.tenlong.com.tw/products/9789863796619)
