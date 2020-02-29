@@ -6,3 +6,11 @@
 - Scrapy
 - PyMongo
 - MongoDB
+
+## Python 環境設置
+使用 Anaconda 建置一個名為 aotter 的虛擬環境，並安裝 scrapy 與 pymongo：
+
+```bash
+pip install scrapy
+pip install pymongo
+```
