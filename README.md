@@ -26,6 +26,7 @@ pip install pymongo
 ## 開發環境
 - 作業系統：macOS Catalina 10.15.3
 - 編輯器：VScode 1.42.1
+
 程式寫完之後，將目錄設定好，並在終端機執行以下指令，便會開始從 ptt 頁面當中撈取資料，並存入 MongoDB：
 ```bash
 scrapy crawl ptt
