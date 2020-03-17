@@ -7,12 +7,7 @@
 - MongoDB
 
 ## Python 環境設置
-使用 Anaconda 建置一個名為 aotter 的虛擬環境，依據題目要求，Python 版本指定為 3.7：
-```bash
-conda create -n aotter python=3.7
-```
-
-進入虛擬環境，並安裝 `scrapy` 與 `pymongo`：
+使用 Anaconda，並安裝 `scrapy` 與 `pymongo`：
 ```bash
 pip install scrapy
 pip install pymongo
